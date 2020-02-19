@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Website',
+    'name': 'vikri',
     'category': 'Website/Website',
     'sequence': 7,
     'summary': 'Enterprise website builder',
